@@ -5,7 +5,7 @@ def get_domain_category(domain):
     
     headers = {
         "accept": "application/json",
-        "x-apikey": "a129cac9826589ee8d7986ec2250b2fbb793eee7515f759a445dbdc3a344c440"
+        "x-apikey": "API_KEY"
     }
     
     response = requests.get(url, headers=headers)
