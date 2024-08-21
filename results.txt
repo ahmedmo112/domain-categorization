@@ -1,0 +1,60 @@
+Domain: cnn.com
+Category: {'BitDefender': 'news', 'Sophos': 'news', 'Forcepoint ThreatSeeker': 'news and media'}
+
+Domain: example.com
+Category: {}
+
+Domain: google.com
+Category: {'BitDefender': 'searchengines', 'Sophos': 'search engines', 'Forcepoint ThreatSeeker': 'search engines and portals'}
+
+Domain: openai.com
+Category: {'alphaMountain.ai': 'Information Technology', 'BitDefender': 'computersandsoftware', 'Xcitium Verdict Cloud': 'business', 'Dr.Web': 'chats', 'Sophos': 'information technology', 'Forcepoint ThreatSeeker': 'generative ai - text & code'}
+
+Domain: github.com
+Category: {'alphaMountain.ai': 'Information Technology (alphaMountain.ai)', 'BitDefender': 'computersandsoftware', 'Xcitium Verdict Cloud': 'web applications', 'Dr.Web': 'social networks', 'Sophos': 'information technology', 'Forcepoint ThreatSeeker': 'information technology'}
+
+Domain: microsoft.com
+Category: {'BitDefender': 'computersandsoftware', 'Xcitium Verdict Cloud': 'computing & technology', 'Sophos': 'information technology', 'Forcepoint ThreatSeeker': 'information technology'}
+
+Domain: apple.com
+Category: {'BitDefender': 'computersandsoftware', 'Sophos': 'information technology', 'Forcepoint ThreatSeeker': 'information technology'}
+
+Domain: amazon.com
+Category: {'BitDefender': 'onlineshop', 'Xcitium Verdict Cloud': 'shopping', 'Sophos': 'online shopping', 'Forcepoint ThreatSeeker': 'shopping'}
+
+Domain: facebook.com
+Category: {'BitDefender': 'socialnetworks', 'Xcitium Verdict Cloud': 'social networking', 'Dr.Web': 'social networks', 'Sophos': 'social networks', 'Forcepoint ThreatSeeker': 'social web - facebook'}
+
+Domain: twitter.com
+Category: {}
+
+Domain: linkedin.com
+Category: {'BitDefender': 'jobsearch', 'Sophos': 'business networking', 'Forcepoint ThreatSeeker': 'social web - linkedin', 'Xcitium Verdict Cloud': 'professional networking '}
+
+Domain: reddit.com
+Category: {'alphaMountain.ai': 'Forums, Personal Sites/Blogs', 'BitDefender': 'timewasters', 'Dr.Web': 'adult content/social networks', 'Sophos': 'blogs and forums', 'Forcepoint ThreatSeeker': 'message boards and forums'}
+
+Domain: youtube.com
+Category: {'BitDefender': 'entertainment', 'Xcitium Verdict Cloud': 'media sharing', 'Dr.Web': 'violence/adult content', 'Sophos': 'video hosting', 'Forcepoint ThreatSeeker': 'social web - youtube'}
+
+Domain: yahoo.com
+Category: {'BitDefender': 'computersandsoftware', 'Xcitium Verdict Cloud': 'search engines & portals', 'Sophos': 'portal sites', 'Forcepoint ThreatSeeker': 'search engines and portals'}
+
+Domain: baidu.com
+Category: {'alphaMountain.ai': 'Search Engines/Portals', 'BitDefender': 'searchengines', 'Sophos': 'search engines', 'Forcepoint ThreatSeeker': 'search engines and portals', 'Xcitium Verdict Cloud': 'search engines & portals'}
+
+Domain: wikipedia.org
+Category: {'alphaMountain.ai': 'Education, Reference', 'BitDefender': 'education', 'Xcitium Verdict Cloud': 'blogs & wikis', 'Sophos': 'reference', 'Forcepoint ThreatSeeker': 'reference materials'}
+
+Domain: stackexchange.com
+Category: {'BitDefender': 'advice', 'Xcitium Verdict Cloud': 'education & reference', 'Sophos': 'reference', 'Forcepoint ThreatSeeker': 'information technology'}
+
+Domain: paypal.com
+Category: {}
+
+Domain: ebay.com
+Category: {'alphaMountain.ai': 'Auctions/Classifieds, Shopping', 'BitDefender': 'onlineshop', 'Xcitium Verdict Cloud': 'shopping', 'Sophos': 'auctions and classified ads', 'Forcepoint ThreatSeeker': 'internet auctions'}
+
+Domain: t.co
+Category: {'BitDefender': 'computersandsoftware', 'Xcitium Verdict Cloud': 'social networking', 'Sophos': 'information technology', 'Forcepoint ThreatSeeker': 'social web - twitter'}
+
