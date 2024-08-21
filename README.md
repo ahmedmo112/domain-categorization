@@ -10,4 +10,4 @@ example.com
 
 <span class="hljs-section">Domain: example.com</span>
 <span class="hljs-section">Category: [some categories here]</span>
-</code></div></div></pre><h2>Contributing</h2><p>If you have suggestions or improvements, feel free to contribute. Mention <code>@reemsarhan</code> for any specific queries or contributions.</p>
+</code></div></div></pre><h2>Contributing</h2><p>If you have suggestions or improvements, feel free to contribute. Mention <a href="https://github.com/reemsarhan">reem sarhan</a> for any specific queries or contributions.</p>
